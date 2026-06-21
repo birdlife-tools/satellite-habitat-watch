@@ -24,7 +24,7 @@ Script that monitors free satellite imagery (Sentinel-2) for defined protected a
 
 Join the discussion:
 
-[![Matrix](https://img.shields.io/badge/Matrix-%23satellite-habitat-watch-black?logo=matrix)](https://matrix.to/#/#satellite-habitat-watch:matrix.org)
+[![Matrix](https://img.shields.io/badge/Matrix-Chat-black?logo=matrix](https://matrix.to/#/#satellite-habitat-watch:matrix.org)
 
 ## License
 
